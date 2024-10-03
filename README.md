@@ -1,16 +1,19 @@
-# learnFlutter
+# Star Wars Questionnaire
+In this app, some Star Wars questions are asked to determine if you are more inclined to the dark or light side of the force :D
 
-A new Flutter project.
+  - ## Why
+    It was a great project to learn the basics of the Flutter framework. This is the very first mobile app that I made in Flutter!!
 
-## Getting Started
+## Platforms
+- iOS
+- Android
 
-This project is a starting point for a Flutter application.
+## Tech used
+- **Frontend framework**: Flutter
+  
+## Functionality
+The app is pretty simple. Once the app launches and you press the "Start" button, you will be asked a few questions. After answering them, the app will determine which side of the Force you incline toward the most.
+ 
+## Example Video :)
+https://github.com/user-attachments/assets/309b40cc-3188-43a9-833e-91ea149856da
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
