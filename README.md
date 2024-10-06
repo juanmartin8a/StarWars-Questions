@@ -1,4 +1,7 @@
 # Star Wars Questionnaire
+![Started](https://img.shields.io/badge/Started-Aug%202020-blue%20green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202020-blue.svg?color=informational)
+
 In this app, some Star Wars questions are asked to determine if you are more inclined to the dark or light side of the force :D
 
   - ## Why
